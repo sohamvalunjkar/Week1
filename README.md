@@ -1,2 +1,2 @@
 # Week1
-it is crop and fertilizzer recomadation system
+it is crop and fertilizer recommadation system
